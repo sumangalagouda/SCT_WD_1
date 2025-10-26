@@ -22,7 +22,7 @@ function App() {
         <div className="text-center px-4">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">About Us</h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-            We create amazing experiences with beautiful designs and smooth interactions.
+            I built a clean and responsive navigation bar using React and Tailwind CSS that makes it easy to move between different sections of the site
           </p>
         </div>
       </section>
@@ -34,7 +34,7 @@ function App() {
         <div className="text-center px-4">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Our Services</h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-            Professional solutions tailored to your needs.
+            Our service includes creating smooth, responsive navigation bars that make websites look modern and easy to use
           </p>
         </div>
       </section>
@@ -46,7 +46,7 @@ function App() {
         <div className="text-center text-white px-4">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Get In Touch</h2>
           <p className="text-lg md:text-xl opacity-90 max-w-2xl mx-auto">
-            Let's create something amazing together.
+            Have a question or want to work together? Reach out — I’d love to hear from you!
           </p>
         </div>
       </section>

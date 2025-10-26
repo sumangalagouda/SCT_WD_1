@@ -37,7 +37,7 @@ const Navigation = () => {
                 isScrolled ? 'text-gray-900' : 'text-white'
               }`}
             >
-              MyBrand
+              My First Task
             </h1>
           </div>
 
