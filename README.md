@@ -28,7 +28,7 @@ Lucide React (icons)
 
 Setup
 
-Clone the repo  ---  git clone https://github.com/yourusername/navigation-bar.git
+Clone the repo  ---  git clone https://github.com/sumangalagouda/SCT_WD_01.git
 
 Install dependencies  --  npm install
 
